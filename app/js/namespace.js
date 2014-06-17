@@ -1,0 +1,4 @@
+var ec = {
+  views: {},
+  util: {}
+}
